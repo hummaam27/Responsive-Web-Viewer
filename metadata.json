@@ -1,0 +1,5 @@
+{
+  "name": "ResponsivePreviewer",
+  "description": "A local developer tool to preview a website URL across multiple device viewports simultaneously.",
+  "requestFramePermissions": []
+}
